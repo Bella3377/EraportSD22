@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263728253490",
+    "project_id": "eraportsd-583a5",
+    "storage_bucket": "eraportsd-583a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263728253490:android:9b929bbe201aa8b6164a2b",
+        "android_client_info": {
+          "package_name": "com.guru.EraportSD"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXpg4ZFe5zkyQyUOv3BPQVGGGCcRpDqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
