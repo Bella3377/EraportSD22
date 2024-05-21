@@ -13,6 +13,9 @@
         android:theme="@style/Theme.EraportSD"
         tools:targetApi="31">
         <activity
+            android:name=".S1Nilaiharian"
+            android:exported="false" />
+        <activity
             android:name=".Biodata"
             android:exported="false" />
         <activity

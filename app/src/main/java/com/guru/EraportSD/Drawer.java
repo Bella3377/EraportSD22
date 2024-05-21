@@ -44,8 +44,8 @@ public class Drawer extends AppCompatActivity {
             arrayList.clear();
             arrayList.add("Beranda");
             arrayList.add("Biodata");
-            arrayList.add("Tema 1");
-            arrayList.add("Tema 2");
+            arrayList.add("Nilai Harian Semester 1");
+            arrayList.add("Nilai Harian Semester 2");
             arrayList.add("Tema 3");
             arrayList.add("Tema 4");
             arrayList.add("Tema 5");
